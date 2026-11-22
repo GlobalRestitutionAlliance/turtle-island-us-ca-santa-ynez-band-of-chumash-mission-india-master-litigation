@@ -1,6 +1,6 @@
 # US CA SANTA YNEZ BAND OF CHUMASH MISSION INDIA - Litigation Framework
 
-**Template:** CUBA-adapted framework
+**Template:** GRA litigation framework
 **Generated:** 2026-11-21
 **Status:** SCAFFOLD - verification required. No fabricated citations.
 
